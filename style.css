@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.full-container {
+    background-color: #1e1f24;
+    display: table-cell;
+    vertical-align: middle;
+    width: 100vw;
+    height: 100vh;
+}
+
+.box-container {
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
